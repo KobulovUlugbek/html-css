@@ -1,0 +1,126 @@
+1. ALT+SHIFT+F= Automatische Aufr�umen von Codes, sch�n lesbar sortieren.
+2. Tastenkombination- Shortcuts-Schnelltaste. Dubliziesen etc.
+3. Git
+4. Attributen----  <h1></h1>                                                      1-mavzu
+
+5.                 <p> </p>                                                       Sarlavha
+
+                   <br>                                                           Absatz
+
+                   <a href="https://www.w3schools.com">Visit W3Schools</a>        linkni yunaltirish
+
+                   <img src="img_girl.jpg">                                       rasm qushish
+
+                   <img src="img_girl.jpg" width="500" height="600">              rasmni kengligi va balandligini belgilash
+
+                   <img src="img_girl.jpg" alt="Girl with a jacket">              alt rasmga text berish nomlash
+
+                   <p style="color:red;">This is a red paragraph.</p>             "style" attribut rasmga rang berish, yozuv shakli va kattaligi etc
+
+                   <p title="I'm a tooltip">This is a paragraph.</p>              "title" Sarlavha xaqida qushimcha malumotlar
+
+                   <a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a> linkga yunaltirish va u xaqida malumot oldindan
+
+                   <h1 style="font-size:60px;">Heading 1</h1>                      yozuvni kattaligini beradi
+
+                   <hr>                                                            Sarlavhani yoki mavzularni chiziq Absatz bn ajratadi
+
+                   <pre> </pre>                                                    Sher shakli. Qanday yozilsa shunday chiqaradi
+
+                   <body style="background-color:powderblue;">                     style qullanishi orqa fonga
+
+                   <h1 style="color:blue;">This is a heading</h1>                  textda qullanishi
+
+                   <h1 style="font-family:verdana;">This is a heading</h1>         yozuv shakli arial, verdana etc
+
+                   <h1 style="font-size:300%;">This is a heading</h1>              mavzu yozuvi kattaligi
+
+                   <h1 style="text-align:center;">Centered Heading</h1>            Textni qaerda joylashishini belgilaydi
+                   <p style="text-align:center;">Centered paragraph.</p>
+
+                   <p><b>This text is bold.</b></p>                                textxarflarini qanday yozilishini belgilaydi
+
+                   <b>                                                             Fetter Text     
+
+                   <strong>                                                        Wichtiger Text
+
+                   <i>                                                             Italic text
+
+                   <em>                                                            Hervorgehobener Text
+
+                   <mark>                                                          Markierte Text
+
+                   <small>                                                         klein text
+
+                   <del>                                                           gelöschte Text
+
+                   <ins>                                                           tagida chiziq bn belgilangan Text
+
+                   <sub>                                                           Tiefgestellter Text
+
+                   <sup>                                                           Hochgestellter Text
+ 
+                  <blockquote> </blockquote>                                       Definiert einen Abschnitt, der aus einer anderen Quelle zitiert wird
+                  
+                  <abbr> </abbr>                                                   Definiert eine Abkürzung oder ein Akronym
+
+                  <address> </address>                                             Definiert Kontaktinformationen für den Autor/Eigentümer eines Dokuments
+
+                  <bdo> </bdo>                                                     Definiert die Textrichtung. Right to left rtl or left to right ltr
+
+                  <cite> </cite>                                                   Definiert den Titel eines Werkes
+
+                  <q> </q>                                                         Definiert ein kurzes Inline-Zitat
+
+                  <!-- Write your comments here -->                                Kommentarien
+
+                  <h1 style="border:2px solid Tomato;">Hello World</h1>            border ramka beradi va uni rangi
+
+                  <a>                                                              Verwenden Sie das Element <a>, um einen Link zu definieren
+
+                  href                                                             Verwenden Sie das href-Attribut, um die Linkadresse zu definieren
+
+                  target                                                           Um zu definieren, wo das verknüpfte Dokument geöffnet werden soll
+                         _self 
+                         _blank
+                         _parent
+                         _top
+                
+                  Element <img> (innerhalb von <a>), um ein Bild als Link zu verwenden
+
+                  <a href="mailto:someone@example.com">Send email</a>              mailto:-Schema innerhalb des href-Attributs, um einen Link zu erstellen, der das E-Mail-Programm des Benutzers öffnet
+
+                  Alt R + 7 = { Alt R + 0 = }
+
+                  <img src="pic_trulli.jpg" alt="Italian Trulli">
+                  <img src="img_girl.jpg" alt="Girl in a jacket">                 qaysi rasmni olishni belgilaydi
+                  <img src="img_chania.jpg" alt="Flowers in Chania">
+
+                  <img src="workplace.jpg" alt="Workplace" usemap="#workmap">
+
+                  <map name="workmap">
+                       <area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm">
+                       <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">             rasmni map orqali belgilash/kursatish
+                       <area shape="circle" coords="337,300,44" alt="Coffee" href="coffee.htm">              va qanday belgilash rect or circle or poly
+                  </map>                                                                                     or default
+
+
+                  <map name="workmap">
+                       <area shape="circle" coords="337,300,44" href="coffee.htm" onclick="myFunction()">    onclick myFunction
+                  </map>
+
+                  <p style="background-image: url('img_girl.jpg');">                                         CSS da orqa fonga rasm urnatish
+
+
+                  <style>
+                     body {
+                           background-image: url('img_girl.jpg');
+                           background-repeat: no-repeat;
+                           background-attachment: fixed;                                                    Qanday yaratilishi hammasini
+                           background-size: cover;
+                           }
+                  </style>
+
+                  google open fonts für schriftarten
+
+                  
